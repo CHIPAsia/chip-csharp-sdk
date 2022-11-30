@@ -38,7 +38,7 @@ NOTE: RestSharp versions greater than 105.1.0 have a bug which causes file uploa
 2. Include the DLL (under the `bin` folder) in the C# project
 
 ### Include on project
-1. Clone repo
+1. Clone/Download this repository
 2. Include project to `.sln`
 3. Add as `Project References` on your project dependencies
 
