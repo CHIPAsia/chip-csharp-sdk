@@ -1,7 +1,7 @@
 <div align="center">
     <a href="https://code.visualstudio.com/docs/languages/csharp">
         <img
-            alt="NodeJS"
+            alt="C#"
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/2048px-C_Sharp_wordmark.svg.png"
             width="150">
     </a>
