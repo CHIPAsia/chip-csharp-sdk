@@ -30,7 +30,7 @@ NOTE: RestSharp versions greater than 105.1.0 have a bug which causes file uploa
 ## Installation
 
 ### Download generated binary
-1. Download `DLL`
+1. Download `DLL.zip` from [Releases](https://github.com/CHIPAsia/chip-csharp-sdk/releases)
 2. Include the DLL (under the `bin` folder) in the C# project.
 
 ### Generate `DLL`
