@@ -1,0 +1,5 @@
+# misc
+bin
+obj
+.DS_STORE
+.vs
